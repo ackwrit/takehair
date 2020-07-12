@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757887202053",
+    "firebase_url": "https://takehair-1574891151044.firebaseio.com",
+    "project_id": "takehair-1574891151044",
+    "storage_bucket": "takehair-1574891151044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757887202053:android:89cfba1cdd1cd341993d6c",
+        "android_client_info": {
+          "package_name": "lightphoenix.takehair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757887202053-a2hgd35a22e0arv1cjo2osksjjfsj9bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU9EZWFvOOaJ8ripk-IdNRNvYsOFfurYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757887202053-a2hgd35a22e0arv1cjo2osksjjfsj9bd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757887202053-0sv8gc2foaii9c9b16m254od3utrv2is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "lightphoenix.takehair"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
