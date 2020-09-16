@@ -8,7 +8,7 @@ import 'package:intl/intl.dart';
 import 'dart:async';
 import 'package:intl/date_symbol_data_local.dart';
 
-import 'package:takehair/controller/paymentController.dart';
+
 
 import 'multipleProfessionnelController.dart';
 

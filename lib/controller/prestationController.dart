@@ -5,7 +5,6 @@ import 'package:flutter/cupertino.dart';
 import 'dart:io';
 import 'package:flutter_swiper/flutter_swiper.dart';
 import 'package:takehair/controller/map.dart';
-import 'package:takehair/controller/paymentController.dart';
 import 'package:takehair/fonction/changementText.dart';
 import 'package:takehair/fonction/bouton.dart';
 import 'package:takehair/model/fireBaseHelper.dart';
@@ -148,7 +147,7 @@ class prestationHome extends State<prestationController>{
   {
     Navigator.push(context, new MaterialPageRoute(builder:
         (BuildContext context){
-      return paymentController(widget.profession,widget.moment,total);
+      return null;
     }
     ));
 

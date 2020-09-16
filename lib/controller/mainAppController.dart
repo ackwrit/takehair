@@ -3,7 +3,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:takehair/fonction/bouton.dart';
 import 'package:takehair/fonction/changementText.dart';
 import 'package:takehair/model/fireBaseHelper.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:takehair/controller/prestationController.dart';
 import 'package:takehair/model/user.dart';
 
